@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arihoy
-- 👀 I’m interested in Javascript and golang.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in Javascript, elm and golang.
+- 🌱 I’m currently learning Javascript and elm.
 - 💞️ I’m looking to collaborate on Web App.
 
 <!---
